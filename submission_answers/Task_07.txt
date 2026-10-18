@@ -1,0 +1,13 @@
+TASK 7: Register.jsx GitHub URL
+
+Requirement:
+Paste the public URL to server/frontend/src/components/Register/Register.jsx showing all five fields and Register button.
+
+Answer / evidence reference:
+https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/server/frontend/src/components/Register/Register.jsx
+
+Before submitting:
+- Replace all placeholders with your real result.
+- For GitHub URL tasks, ensure the repository and file are public and the URL opens.
+- For cURL tasks, include both the exact command and complete real response.
+- For screenshot tasks, attach the actual screenshot in Coursera; a filename alone is not the screenshot.

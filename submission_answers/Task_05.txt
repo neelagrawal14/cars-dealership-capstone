@@ -1,0 +1,13 @@
+TASK 5: loginuser cURL and output
+
+Requirement:
+Paste the cURL command and genuine response for login using a valid test username/password.
+
+Answer / evidence reference:
+[PASTE REAL cURL COMMAND AND OUTPUT]
+
+Before submitting:
+- Replace all placeholders with your real result.
+- For GitHub URL tasks, ensure the repository and file are public and the URL opens.
+- For cURL tasks, include both the exact command and complete real response.
+- For screenshot tasks, attach the actual screenshot in Coursera; a filename alone is not the screenshot.
